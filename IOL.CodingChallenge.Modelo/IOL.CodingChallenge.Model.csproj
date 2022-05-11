@@ -49,6 +49,7 @@
     <Compile Include="Italiano.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rectangulo.cs" />
+    <Compile Include="ServicioReporte\ReporteService.cs" />
     <Compile Include="Spanish.cs" />
     <Compile Include="Trapecio.cs" />
     <Compile Include="TrianguloEquilatero.cs" />

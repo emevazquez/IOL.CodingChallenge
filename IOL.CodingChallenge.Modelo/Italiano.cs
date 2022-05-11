@@ -14,7 +14,7 @@ namespace IOL.CodingChallenge.Modelo
             Titulo = "<h1>Rapporto sulle forme</h1>";
             ListaVacia = "<h1>Elenco vuoto di forme!</h1>";
             Formas = "forme";
-            Perimetro = "Perimetro";
+            Perimetro = " Perimetro";
             Total = "TOTAL:<br/>";
             Circle = "cerchio";
             Triangle = "triangolo";
