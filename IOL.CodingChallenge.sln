@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOL.CodingChallenge.ReportsApi", "IOL.CodingChallenge.ReportsApi\IOL.CodingChallenge.ReportsApi.csproj", "{22F31277-2346-46D7-961E-44AB1A786F54}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOL.CodingChallenge.Model", "IOL.CodingChallenge.Modelo\IOL.CodingChallenge.Model.csproj", "{D22165FE-41D8-486A-963A-629319A6DF19}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IOL.CodingChallenge.TestsSuite", "IOL.CodingChallenge.TestsSuite\IOL.CodingChallenge.TestsSuite.csproj", "{032FAD30-0951-4D3D-8F2D-3F89D9014453}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{22F31277-2346-46D7-961E-44AB1A786F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{22F31277-2346-46D7-961E-44AB1A786F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{22F31277-2346-46D7-961E-44AB1A786F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{22F31277-2346-46D7-961E-44AB1A786F54}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D22165FE-41D8-486A-963A-629319A6DF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D22165FE-41D8-486A-963A-629319A6DF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D22165FE-41D8-486A-963A-629319A6DF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
