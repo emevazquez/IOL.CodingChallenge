@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IOL.CodingChallenge.Model\IOL.CodingChallenge.Model.csproj" />
+    <ProjectReference Include="..\IOL.CodingChallenge.Modelo\IOL.CodingChallenge.Model.csproj" />
   </ItemGroup>
 
 	 <!--Conditionally obtain references for the .NET Framework 4.0 target--> 

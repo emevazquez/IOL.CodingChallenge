@@ -45,8 +45,11 @@
     <Compile Include="Cuadrado.cs" />
     <Compile Include="FormaGeometrica.cs" />
     <Compile Include="Idioma.cs" />
+    <Compile Include="Ingles.cs" />
+    <Compile Include="Italiano.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rectangulo.cs" />
+    <Compile Include="Spanish.cs" />
     <Compile Include="Trapecio.cs" />
     <Compile Include="TrianguloEquilatero.cs" />
   </ItemGroup>

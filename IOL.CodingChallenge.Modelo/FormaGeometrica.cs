@@ -8,8 +8,8 @@
 
       
 
-        //public decimal perimetro { get; set; }
-        //public decimal area { get; set; }
+        public decimal perimetro { get; set; }
+        public decimal area { get; set; }
 
         public virtual decimal calcularArea()
         {
