@@ -17,6 +17,11 @@ namespace IOL.CodingChallenge.Modelo
             Formas = "formas";
             Perimetro = "Perimetro";
             Total = "TOTAL:<br/>";
+            Circle = "circulo";
+            Triangle = "triangulo";
+            Square = "cuadrado";
+            Trapeze = "trapecio";
+            Rectangle = "rectangulo";
 
         }
         

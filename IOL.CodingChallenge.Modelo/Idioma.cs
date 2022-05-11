@@ -14,6 +14,12 @@ namespace IOL.CodingChallenge.Model
         public string Total { get; set; }
         public string Formas { get; set; }
         public string Perimetro { get; set; }
+        public string Circle { get; set; }
+        public string Square { get; set; }
+        public string Triangle { get; set; }
+        public string Trapeze { get; set; }
+        public string Rectangle { get; set; }
+     
 
 
         public  Idioma Obtener(int id)

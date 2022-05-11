@@ -85,30 +85,33 @@ namespace IOL.CodingChallenge.Repository.Repositorios
 
         public IEnumerable<FormaGeometrica> ObtenerFormas()
         {
+           
             var formas = new List<FormaGeometrica>();
-            formas.Add(new Circulo
-            {
-                lado = (decimal)10
-            }) ;
-
-            formas.Add(new Cuadrado
-            {
-                lado = (decimal)4
-            });
-
-            formas.Add(new TrianguloEquilatero
-            {
-                lado = (decimal)5
-            });
-                       formas.Add(new Trapecio());
-            formas.Add(new Rectangulo());
-          
-            formas.Add(new Cuadrado
-            {
-                lado = (decimal)3
-            });
 
             return formas;
+            //formas.Add(new Circulo
+            //{
+            //    lado = (decimal)10
+            //}) ;
+
+            //formas.Add(new Cuadrado
+            //{
+            //    lado = (decimal)4
+            //});
+
+            //formas.Add(new TrianguloEquilatero
+            //{
+            //    lado = (decimal)5
+            //});
+            //           formas.Add(new Trapecio());
+            //formas.Add(new Rectangulo());
+
+            //formas.Add(new Cuadrado
+            //{
+            //    lado = (decimal)3
+            //});
+
+            //return formas;
         }
     }
 }

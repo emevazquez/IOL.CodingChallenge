@@ -8,6 +8,10 @@ namespace IOL.CodingChallenge.Model
 {
     public class Circulo : FormaGeometrica
     {
+        public Circulo(decimal l)
+        {
+            this.lado = (decimal)l;
+        }
        public override decimal calcularArea()
         {
             return (decimal)Math.PI * (lado / 2) * (lado / 2);

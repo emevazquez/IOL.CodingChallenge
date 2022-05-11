@@ -7,7 +7,14 @@ using System.Threading.Tasks;
 namespace IOL.CodingChallenge.Model
 {
     public class Cuadrado : FormaGeometrica
+
+
     {
+
+        public Cuadrado(int lado)
+        {
+            this.lado = lado;
+        }
         public override decimal calcularArea()
         {
             return (decimal)lado  * lado;
