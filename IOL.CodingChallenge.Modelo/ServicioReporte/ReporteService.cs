@@ -58,11 +58,11 @@ namespace IOL.CodingChallenge.Modelo.ServicioReporte
             {
 
 
-            if(f.GetType().ToString() == "IOL.CodingChallenge.Model.FormaGeometrica")
-             {
+   if(f.GetType().ToString() == "IOL.CodingChallenge.Model.FormaGeometrica")
+                  
                     report += "Forma de lado " + f.lado + " desconocida";
 
-             }
+             
             if(f is Circulo)
                 {
                     numeroCirculos++;
